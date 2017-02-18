@@ -1,0 +1,7 @@
+autocomplete-python
+script
+fileicons
+linter-flake8
+python-autopep8
+minmap
+predown (script theme)

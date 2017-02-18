@@ -1,0 +1,7 @@
+#install homebrew package manager for ruby
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+#install ruby using brew
+brew install ruby
+#ruby gem package in documents
+ruby setup.rb
+#node js from the site
